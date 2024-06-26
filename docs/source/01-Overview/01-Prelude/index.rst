@@ -17,8 +17,15 @@ What is Lua
 
 Learning Resource
 ------------------------------------------------------------------------------
-下面是一些
+**下面是一些 Lua 语言的入门学习资料**
+
 - `Lua 语言官网 www.lua.org <http://www.lua.org/>`_
 - `Lua 手册中文版 <https://cloudwu.github.io/lua53doc/manual.html>`_: 这是我最主要的知识来源. 这个网站的源码 host 在了 `github.com/cloudwu/lua53doc <https://github.com/cloudwu/lua53doc>`_ 上.
 - `Lua 手册英文版 <https://www.lua.org/manual/>`_
 - `知乎 - Lua 是怎样一门语言 <https://www.zhihu.com/question/19841006>`_:
+
+由于 Lua 最主要的应用就是游戏行业. 而魔兽世界中的插件基本都是开源的, 质量都很高. 所以可以随便拿一个有名的插件项目的 GitHub 仓库学习一些业内的最佳实践.
+
+- `DBM <https://github.com/DeadlyBossMods/DeadlyBossMods>`_
+- `AtlasLootClassic <https://github.com/Hoizame/AtlasLootClassic>`_
+- `Domino <https://github.com/tullamods/Dominos>`_

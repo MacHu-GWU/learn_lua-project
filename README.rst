@@ -3,22 +3,22 @@
     :target: https://learn-lua.readthedocs.io/en/latest/
     :alt: Documentation Status
 
-.. image:: https://github.com/MacHu-GWU/learn_lua-project/workflows/CI/badge.svg
+.. .. image:: https://github.com/MacHu-GWU/learn_lua-project/workflows/CI/badge.svg
     :target: https://github.com/MacHu-GWU/learn_lua-project/actions?query=workflow:CI
 
-.. image:: https://codecov.io/gh/MacHu-GWU/learn_lua-project/branch/main/graph/badge.svg
+.. .. image:: https://codecov.io/gh/MacHu-GWU/learn_lua-project/branch/main/graph/badge.svg
     :target: https://codecov.io/gh/MacHu-GWU/learn_lua-project
 
-.. image:: https://img.shields.io/pypi/v/learn-lua.svg
+.. .. image:: https://img.shields.io/pypi/v/learn-lua.svg
     :target: https://pypi.python.org/pypi/learn-lua
 
-.. image:: https://img.shields.io/pypi/l/learn-lua.svg
+.. .. image:: https://img.shields.io/pypi/l/learn-lua.svg
     :target: https://pypi.python.org/pypi/learn-lua
 
-.. image:: https://img.shields.io/pypi/pyversions/learn-lua.svg
+.. .. image:: https://img.shields.io/pypi/pyversions/learn-lua.svg
     :target: https://pypi.python.org/pypi/learn-lua
 
-.. image:: https://img.shields.io/badge/Release_History!--None.svg?style=social
+.. .. image:: https://img.shields.io/badge/Release_History!--None.svg?style=social
     :target: https://github.com/MacHu-GWU/learn_lua-project/blob/main/release-history.rst
 
 .. image:: https://img.shields.io/badge/STAR_Me_on_GitHub!--None.svg?style=social
@@ -50,7 +50,10 @@
 
 Welcome to ``learn_lua`` Documentation
 ==============================================================================
-Documentation for ``learn_lua``.
+.. image:: https://learn-lua.readthedocs.io/en/latest/_static/learn_lua-logo.png
+    :target: https://learn-lua-bootstrap.readthedocs.io/en/latest/
+
+我个人学习 Lua 编程语言的学习笔记.
 
 
 .. _install:

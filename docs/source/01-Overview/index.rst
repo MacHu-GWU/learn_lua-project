@@ -1,4 +1,4 @@
-Sample RestructuredText Document
+Overview
 ==============================================================================
-
-This is a sample rst document.
+.. autotoctree::
+    :maxdepth: 1

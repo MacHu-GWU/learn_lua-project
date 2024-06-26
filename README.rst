@@ -51,7 +51,7 @@
 Welcome to ``learn_lua`` Documentation
 ==============================================================================
 .. image:: https://learn-lua.readthedocs.io/en/latest/_static/learn_lua-logo.png
-    :target: https://learn-lua-bootstrap.readthedocs.io/en/latest/
+    :target: https://learn-lua.readthedocs.io/en/latest/
 
 我个人学习 Lua 编程语言的学习笔记.
 
